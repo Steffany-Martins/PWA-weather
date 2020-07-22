@@ -4,8 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <p align="center"> 
 <img src="https://github.com/Steffany-Martins/PWA-weather/blob/master/public/images/logo.png" width="500"  alt="logo PWA weather">
-  <h2>Weather App</h2>
-
+  <p align="center"> <h2>Weather App</h2></p>
 </p>
 
 
