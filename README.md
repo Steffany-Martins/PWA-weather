@@ -1,12 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<sup>This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).</sup>
 
 
 
 <p align="center"> 
 <img src="https://github.com/Steffany-Martins/PWA-weather/blob/master/public/images/logo.png" width="500"  alt="logo PWA weather">
-  <p align="center"> <h2>Weather App</h2></p>
+  
 </p>
-
+<h2 align="center">Weather App</h2>
 
 <br>
 
