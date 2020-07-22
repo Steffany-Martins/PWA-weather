@@ -26,7 +26,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <p align="justify">Weather App is a project with Progressive Web Application and React JS. With search in the input, you can be abble to find a weather in the city or country. </p>
 <div align="center">
-<img src="https://github.com/Steffany-Martins/PWA-weather/blob/master/chrome-capture.gif"/>
+<img src="https://github.com/Steffany-Martins/PWA-weather/blob/master/chrome-capture.gif" alt="Weather app working in search gift"/>
 </div>
 <br>
 
