@@ -11,7 +11,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0056fd0d-4707-4b1d-8b79-3defcbf2e565/deploy-status)](https://app.netlify.com/sites/weather-app-full-pwa/deploys)
 <br>
 
-<a href="#NLW">Next Level Week</a>   |  <a href="#Project">  Project</a>   |   <a href="#Tech"> Technologies</a>     |  <a href="#HowtoUse">  How to use </a>   | <a href="#HowtoContribute">   How to contribute </a>  | <a href="#License">   License </a>
+<a href="#NLW">Weather App</a>   |  <a href="#Project">  Project</a>   |   <a href="#Tech"> Technologies</a>     |  <a href="#HowtoUse">  How to use </a>   | <a href="#HowtoContribute">   How to contribute </a>  | <a href="#License">   License </a>
 
 
 
